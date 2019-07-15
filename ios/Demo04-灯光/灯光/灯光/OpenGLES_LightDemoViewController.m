@@ -2,8 +2,8 @@
 //  OpenGLES_LightDemoVC.m
 //  灯光
 //
-//  Created by AnDong on 2018/6/5.
-//  Copyright © 2018年 AnDong. All rights reserved.
+//  Created by yulu kong on 2018/4/15.
+//  Copyright © 2019 yulu kong. All rights reserved.
 //
 
 #import "OpenGLES_LightDemoViewController.h"

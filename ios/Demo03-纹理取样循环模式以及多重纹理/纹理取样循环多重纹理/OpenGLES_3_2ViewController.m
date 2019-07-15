@@ -2,8 +2,8 @@
 //  OpenGLES_3_2ViewController.m
 //  OpenGLES_3_2Demo
 //
-//  Created by 广东省深圳市 on 2017/6/13.
-//  Copyright © 2017年 Ace. All rights reserved.
+//  Created by yulu kong on 2018/5/15.
+//  Copyright © 2019 yulu kong. All rights reserved.
 //
 
 #import "OpenGLES_3_2ViewController.h"

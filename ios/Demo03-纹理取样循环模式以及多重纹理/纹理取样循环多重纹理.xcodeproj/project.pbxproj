@@ -313,10 +313,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F2347ZTV6T;
+				DEVELOPMENT_TEAM = GLWCRSS83U;
 				INFOPLIST_FILE = "纹理取样循环多重纹理/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "ACE.----------";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kyl.ACE.----------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -327,10 +327,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F2347ZTV6T;
+				DEVELOPMENT_TEAM = GLWCRSS83U;
 				INFOPLIST_FILE = "纹理取样循环多重纹理/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "ACE.----------";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kyl.ACE.----------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

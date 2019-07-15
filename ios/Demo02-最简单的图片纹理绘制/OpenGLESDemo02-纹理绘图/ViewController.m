@@ -2,8 +2,8 @@
 //  ViewController.m
 //  OpenGLESDemo02-纹理绘图
 //
-//  Created by AnDong on 2018/4/13.
-//  Copyright © 2018年 AnDong. All rights reserved.
+//  Created by yulu kong on 2018/7/15.
+//  Copyright © 2019 yulu kong. All rights reserved.
 //
 
 #import "ViewController.h"

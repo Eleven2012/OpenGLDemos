@@ -2,8 +2,8 @@
 //  main.m
 //  纹理取样循环多重纹理
 //
-//  Created by AnDong on 2018/5/9.
-//  Copyright © 2018年 AnDong. All rights reserved.
+//  Created by yulu kong on 2018/5/15.
+//  Copyright © 2019 yulu kong. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
